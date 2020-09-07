@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+One of my firsts Apps with ReactJs. Movie Search fetching data from an API. Details page of a film too.
+
 ## Available Scripts
 
 In the project directory, you can run:
